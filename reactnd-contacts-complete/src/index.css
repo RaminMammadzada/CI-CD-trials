@@ -95,6 +95,7 @@ body, .app {
   background-position: 20px center;
   background-size: 1.2em;
   font-size: 1.2em;
+  background-color:rgb(245, 173, 107);
   border: 0;
   outline: none;
 }
